@@ -1,7 +1,7 @@
 # 🪣
 
 ```
-https://cdn.jsdelivr.net/gh/vuolter/bucket/<📄>
+https://cdn.jsdelivr.net/gh/vuolter/bucket@latest/<📄>
 ```
 
 Public Junk Only.
